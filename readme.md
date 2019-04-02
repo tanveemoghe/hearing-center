@@ -17,7 +17,7 @@
 
 - change these db name, usaername and password in .env file
 	DB_DATABASE=hearing-center
-	DB_USERNAME=root
+	DB_USERNAME=your_local_username
 	DB_PASSWORD=password
 - Run migration to create database structure in existing db schema "hearing-center"
 	- php artisan migrate
