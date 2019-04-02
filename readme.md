@@ -1,13 +1,13 @@
 
 
-******************************************* README *************************************************
-----------------------------------------------------------------------------------------------------
+                                ******README ******
+-----------------------------------------------------------------
 - Create DB "hearing-center" in mysql.
 
 - Download code or clone from given GIT URL : 
-	-
+	- https://github.com/tanveemoghe/hearing-center
 
-- cd hearing-clinic
+- cd hearing-center
 
 - Install composer : "composer install"
 
